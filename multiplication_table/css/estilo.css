@@ -165,5 +165,6 @@ footer {
     /* div dos radio */
     div#operacao{
         font-size: 1em;
+        width: 100%;
     }
 }
