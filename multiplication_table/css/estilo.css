@@ -161,4 +161,9 @@ footer {
         width: 90%;
         height: fit-content;
     }
+
+    /* div dos radio */
+    div#operacao{
+        font-size: 1em;
+    }
 }
