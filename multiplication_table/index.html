@@ -19,9 +19,29 @@
     <section>
         <div id="conteudo">
             <label for="tabuada">Número:</label>
-                <input type="number" class="tabuada" id="tabuada" placeholder="Digite um valor" autofocus>
+            <input type="number" class="tabuada" id="tabuada" placeholder="Digite um valor" autofocus>
 
-            <input type="button" value="Gerar Tabuada" id="btn" class="btn">    
+            <label>Operação</label>
+            
+            <div id="operacao">
+                <label for="multi">
+                    <input type="radio" name="operacao" id="multi" value="multiplicacao" > Multiplicação
+                </label>
+
+                <label for="divi">
+                    <input type="radio" name="operacao" id="divi" value="divisao"> Divisão
+                </label>
+
+                <label for="adicao">
+                    <input type="radio" name="operacao" id="adicao" value="adicao"> Adição
+                </label>
+
+                <label for="subtracao">
+                    <input type="radio" name="operacao" id="subtracao" value="subtracao"> Subtração
+                </label>
+            </div>
+
+            <input type="button" value="Gerar Tabuada" id="btn" class="btn">
         </div>
 
         <div id="resultado"></div>

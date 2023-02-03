@@ -88,6 +88,18 @@ section {
     transition: all linear .5s;
 }
 
+/* operações :divisão, multiplicação... */
+div#operacao{
+    /* border: 1px solid; */
+    padding: 10px 0px;
+    font-size: 1.2em;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+
+
 #conteudo>label {
     font-size: 1.5em;
 }
@@ -125,6 +137,15 @@ section {
     margin-top: 10px;
     background-color: red;
     border: 1px solid red;
+}
+
+/* mensagem de erro de operação : /, *, +, - */
+#p-operacao{
+    background-color: red;
+    padding: 10px;
+    color: #fefefe;
+    text-align: center;
+    border-radius: 4px;
 }
 
 
