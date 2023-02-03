@@ -56,8 +56,11 @@ function tabuada() {
 
         let select = document.createElement("select");
         //criando o elemento select
+       
         select.size = 10;
+        // aqui definimos a quantidade de elementos dentro do select
 
+        
         select.setAttribute("id", "select-info");
         // adicionado ao elemento o id select-info para futuras consultas e inserções de values
 
