@@ -4,7 +4,7 @@
 
 </p>
 
- **<a href="https://hochiminh1996.github.io/count/count/">💻 Clique aqui</a>**
+ **<a href="https://hochiminh1996.github.io/multiplication-table/multiplication_table/">💻 Clique aqui</a>**
 
 
 <div align="center">
