@@ -1,6 +1,6 @@
 # Tabuada dos 4 Operadores Aritméticos 
 
-<p align="justify"> Uma simples aplicação de fixação (JS) que calcula uma tabuada desejada (adição, subtração, multiplicação, divisão). Além disso, há o uso dos conceitos de criação dinâmica de elementos, seletores, uso do fluxo condicional, funções, inserção de dados, eventos, além do uso de conceitos de HTML5 e CSS3.
+<p align="justify"> Uma simples aplicação de fixação (JS) que calcula uma tabuada desejada (➕➖✖️➗). Além disso, há o uso dos conceitos de criação dinâmica de elementos, seletores, uso do fluxo condicional, funções, inserção de dados, eventos, além do uso de conceitos de HTML5 e CSS3.
 
 </p>
 
