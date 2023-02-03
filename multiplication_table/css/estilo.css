@@ -92,10 +92,11 @@ section {
 div#operacao{
     /* border: 1px solid; */
     padding: 10px 0px;
-    font-size: 1.2em;
+    font-size: 1.3em;
     display: flex;
     width: 100%;
     justify-content: space-between;
+    flex-direction: column;
 }
 
 
